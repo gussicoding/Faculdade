@@ -1,0 +1,24 @@
+teste01 INPUT:
+abc
+30
+x
+25
+999
+
+
+teste02 INPUT:
+30
+31
+29
+32
+28
+33
+999
+
+
+teste03 INPUT:
+30
+29
+31
+32
+33
