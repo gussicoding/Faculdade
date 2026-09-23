@@ -2,8 +2,8 @@
 
 ## 1. Identificação
 
-- **Nome do aluno:** [PREENCHA SEU NOME]
-- **Disciplina:** [PREENCHA O NOME DA DISCIPLINA]
+- **Nome do aluno:** GUSTAVO HENRIQUE DA SILVA
+- **Disciplina:** ALGORITMOS E PENSAMENTO COMPUTACIONAL
 - **Professora:** Profa. Karla Sartin
 - **Título do projeto:** Desafio de Monitoramento de Temperatura
 
